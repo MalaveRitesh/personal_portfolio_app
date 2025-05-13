@@ -63,7 +63,7 @@ const Home = () => {
             </button> */}
 
             <a
-              href="#" // Path to the file in the public folder
+              href="RiteshMalaveResume.pdf" // Path to the file in the public folder
               download="Ritesh_Resume.pdf" // Suggested download file name
             >
               <button className="group text-white px-6 py-3 my-2 flex items-center rounded-md border-2 border-cyan-500 cursor-pointer hover:bg-cyan-500/20 duration-300">
